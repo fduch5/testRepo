@@ -1,5 +1,3 @@
 # testRepo
 
-I learn how to use GITHUB
-
-I need it for my project I will create.
+This is the branch fix2.
